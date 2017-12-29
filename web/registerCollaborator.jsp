@@ -98,6 +98,10 @@
                                         <input type="email" placeholder="email@hotmail.com" class="form-control" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="E.g. - cisco@business.co.uk" required="required">
                                     </div>
                                 </div>
+                                <div class="row" style="margin:auto">
+                                    <label>Additional Notes</label>
+                                    <textarea class="form-control" name="additionalNotes" row="20" style="height:180px;resize: none;"></textarea>
+                                </div>
                             </div>
                             <br />
                             <div class="submit-button">
